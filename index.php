@@ -1,4 +1,5 @@
 <?php
-echo ('index document of deploy tool test');
-echo ('test #3');
-echo ('test #4');
+echo ('index document of deploy tool test<br/>');
+echo ('test #3<br/>');
+echo ('test #4<br/>');
+echo ('test 5<br/>');
